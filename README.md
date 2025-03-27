@@ -1,6 +1,7 @@
 ## Olá seja bem-vindo(a) ao meu repositório!
 - 💼 Atualmente trabalho como Full-Stack - Java/Angular 
-- 💻 Estudante de Engenharia de Software
+- 💻 Estudante de Engenharia de Software 4° período
+- 📚 Estudando <img alt="quarkus" height="10" width="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" />
   
  <div>
   <a href="https://github.com/pedrosoaresdev">
@@ -8,9 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosoaresdev&layout=compact&langs_count=16&theme=shadow_red"/>
 </div>
     <div style="display: inline_block"><br>
-  <img align="center" alt="lang-Javar" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />     
+  <img align="center" alt="lang-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />     
   <img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="Sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="PostegreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
