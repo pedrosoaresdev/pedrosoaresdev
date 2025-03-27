@@ -1,13 +1,14 @@
 ## Olá seja bem-vindo(a) ao meu repositório!
 - 💼 Atualmente trabalho como Full-Stack - Java/Angular 
 - 💻 Estudante de Engenharia de Software 4° período
-- 📚 Estudando <img alt="quarkus" height="30" width="30" righit="2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" />
-  
+- 📚 Estudando <img alt="lang-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg" style="vertical-align: middle; margin-left: 8px;" />
+
  <div>
   <a href="https://github.com/pedrosoaresdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosoaresdev&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosoaresdev&layout=compact&langs_count=16&theme=shadow_red"/>
 </div>
+    
     <div style="display: inline_block"><br>
   <img align="center" alt="lang-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />     
   <img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
