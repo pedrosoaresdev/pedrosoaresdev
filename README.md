@@ -1,8 +1,8 @@
 ## Olá seja bem-vindo(a) ao meu repositório!
 - 💼 Atualmente trabalho como Full-Stack - Java/Angular 
 - 💻 Estudante de Engenharia de Software 4° período
-- 📚 Estudando <img alt="lang-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original-wordmark.svg" style="vertical-align: middle; margin-left: 8px;" />
-
+- 📚 Eterno estudante...
+  
  <div>
   <a href="https://github.com/pedrosoaresdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosoaresdev&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
