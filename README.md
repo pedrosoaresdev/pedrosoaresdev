@@ -1,5 +1,5 @@
 ## Olá seja bem-vindo(a) ao meu repositório!
-- 💼 Atualmente trabalho como Full-Stack - Java/Angular 
+- 💼 Atualmente trabalho com - Java/Angular
 - 💻 Estudante de Engenharia de Software 4° período
 - 📚 Eterno estudante...
   
