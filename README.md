@@ -1,7 +1,5 @@
 ## Olá, seja bem-vindo(a) ao meu repositório!
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, trabalho com **Java** e **Angular**, e estou sempre buscando aprender mais.
-
 - 💼 **Atualmente trabalho com**: Java | Angular  
 - 🎓 **Estudante de Engenharia de Software** - 4º período  
 - 📚 **Eterno estudante...**  
