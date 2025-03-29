@@ -22,8 +22,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, trabalh
   <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
 ---
@@ -31,7 +29,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, trabalh
 ### 📈 Gráficos e Contribuições
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrosoaresdev&theme=radical" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pedrosoaresdev&theme=redical"/>
 </div>
 
 ---
