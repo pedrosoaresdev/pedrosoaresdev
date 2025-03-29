@@ -1,5 +1,7 @@
 ## Olá, seja bem-vindo(a) ao meu repositório!
 
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, trabalho com **Java** e **Angular**, e estou sempre buscando aprender mais.
+
 - 💼 **Atualmente trabalho com**: Java | Angular  
 - 🎓 **Estudante de Engenharia de Software** - 4º período  
 - 📚 **Eterno estudante...**  
@@ -7,15 +9,15 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosoaresdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosoaresdev&layout=compact&langs_count=16&theme=radical"/>
+<div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosoaresdev&show_icons=true&theme=blue-white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosoaresdev&layout=compact&langs_count=16&theme=blue-white"/>
 </div>
 
 ---
 
 ### 🚀 Minhas Tecnologias e Ferramentas
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />     
   <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
@@ -24,9 +26,10 @@
 
 ---
 
-### 📈 Gráficos e Contribuições
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrosoaresdev&theme=radical" />
+### 📈 Contribuições Recentes
+<div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrosoaresdev&theme=blue-white" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pedrosoaresdev&theme=blue-white"/>
 </div>
 
 ---
