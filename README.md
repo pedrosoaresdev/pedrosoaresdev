@@ -1,7 +1,5 @@
 ## Olá, seja bem-vindo(a) ao meu repositório!
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, trabalho com **Java** e **Angular**, e estou sempre buscando aprender mais.
-
 - 💼 **Atualmente trabalho com**: Java | Angular  
 - 🎓 **Estudante de Engenharia de Software** - 4º período  
 - 📚 **Eterno estudante...**  
@@ -22,14 +20,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, trabalh
   <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-</div>
-
----
-
-### 📈 Contribuições Recentes
-<div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrosoaresdev&theme=blue-white" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pedrosoaresdev&theme=blue-white"/>
 </div>
 
 ---
