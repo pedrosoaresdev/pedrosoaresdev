@@ -35,4 +35,6 @@
 
 ---
 
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 ✨ Obrigado por visitar meu perfil! Sempre buscando aprender e compartilhar conhecimento! 🚀
