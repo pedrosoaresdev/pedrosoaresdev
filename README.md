@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a) ao meu repositório!
 
-- 💼 **Atualmente trabalho com**: Java | Angular  
+- 💼 **Principal linguagem de programação **: Java
 - 🎓 **Estudante de Engenharia de Software** - 4º período  
 - 📚 **Eterno estudante...**  
 
