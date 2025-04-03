@@ -17,7 +17,6 @@
 ### 🚀 Minhas Tecnologias e Ferramentas
 <div style="display: flex; justify-content: center; background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
   <img align="center" alt="Java" height="55" width="55" src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000" />     
-  <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="SQLServer" height="55" width="55" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" />
