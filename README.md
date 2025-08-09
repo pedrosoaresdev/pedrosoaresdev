@@ -20,6 +20,8 @@
   <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="SQLServer" height="55" width="55" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" />
+  <img width="center" alt="Kotlin" height="55" width="55"  src="https://github.com/user-attachments/assets/e6b79354-ee6e-4b11-8173-8c3f448c218d" />
+
   
 </div>
 
