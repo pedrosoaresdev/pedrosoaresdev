@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo(a) ao meu repositório!
 
 - 💼 **Principal linguagem de programação**: Java
-- 🎓 **Engenharia de Software** - 5º período  
+- 🎓 **Engenharia de Software** - 6º período  
 - 📚 **Eterno estudante...**  
 
 ---
