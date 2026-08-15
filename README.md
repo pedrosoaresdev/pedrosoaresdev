@@ -1,6 +1,6 @@
 ## 🕹️ Olá, seja bem-vindo(a) ao meu repositório Gamer!
 
-- 💼 **Foco**: Game Development (C++, C# & Unity)
+- 💼 **Foco**: Game Development (C++, Java, C# & Unity)
 - 🎓 **Engenharia de Software** - 7º período  
 - 📚 **Eterno estudante...** (Estudando Game Dev na Udemy)
 - 🎮 **Games Favoritos**: Assassin's Creed, Minecraft, Free Fire, Fortnite e CS:GO
