@@ -27,7 +27,7 @@
   <!-- Visual Studio -->
   <img align="center" alt="Visual Studio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   <!-- unity -->
-  <img align="center" alt="unity" height="50" width="50" src="https://www.vectorlogo.zone/logos/unity/unity-icon.svg" />
+  <img align="center" alt="unity" height="50" width="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" />
   <!-- PostgreSQL -->
   <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <!-- SQLServer -->
