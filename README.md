@@ -1,61 +1,129 @@
-## 🕹️ Olá, seja bem-vindo(a) ao meu repositório Gamer!
+# 🎮 PEDRO SOARES | GAME DEVELOPER
 
-- 💼 **Foco**: Game Development (C++, C# & Unity)
-- 🎓 **Engenharia de Software** - 7º período  
-- 📚 **Eterno estudante...** (Estudando Game Dev na Udemy)
-- 🎮 **Games Favoritos**: Assassin's Creed, Minecraft, Free Fire, Fortnite e CS:GO
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:7c3aed,100:06b6d4&height=220&section=header&text=PEDRO%20SOARES&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=GAME%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-### 📊 Estatísticas do GitHub
-<div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosoaresdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosoaresdev&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
----
-
-### 🚀 Minhas Tecnologias, Ferramentas e Personagens
-
-<div style="display: flex; justify-content: center; background-color: #f8f9fa; padding: 20px; border-radius: 10px; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <!-- C++ -->
-  <img align="center" alt="C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <!-- C# -->
-  <img align="center" alt="C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <!-- Unity -->
-  <img align="center" alt="Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-  <!-- Visual Studio -->
-  <img align="center" alt="Visual Studio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-  <!-- unity -->
-  <img align="center" alt="unity" height="50" width="90" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" />
-  <!-- PostgreSQL -->
-  <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <!-- SQLServer -->
-  <img align="center" alt="SQLServer" height="55" width="55" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Transformando+c%C3%B3digo+em+experi%C3%AAncias;C%2B%2B+%7C+C%23+%7C+UNITY;Game+Development+%26+Software+Engineering;Sempre+evoluindo.+Sempre+criando.)](https://git.io/typing-svg)
 
 <br/>
 
+[![GitHub](https://img.shields.io/badge/GitHub-pedrosoaresdev-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrosoaresdev)
+[![Game Dev](https://img.shields.io/badge/FOCO-GAME%20DEVELOPMENT-7c3aed?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+
+</div>
+
+---
+
+## 👾 PLAYER PROFILE
+
+```text
+╔══════════════════════════════════════════╗
+║              PLAYER STATUS               ║
+╠══════════════════════════════════════════╣
+║  PLAYER       : Pedro Soares             ║
+║  CLASS        : Software Developer       ║
+║  SPECIALTY    : Game Development         ║
+║  EDUCATION    : Software Engineering     ║
+║  MAIN WEAPONS : C++ | C# | Unity         ║
+║  MINDSET      : Learn, Build, Evolve     ║
+╚══════════════════════════════════════════╝
+```
+
+🎮 Desenvolvedor em formação, apaixonado por tecnologia, programação e pelo universo dos games. Meu objetivo é transformar ideias em projetos reais, desenvolver soluções criativas e evoluir continuamente como profissional.
+
+- 🎓 Graduando em Engenharia de Software — 7º período.
+- 🕹️ Foco em desenvolvimento de jogos e programação.
+- 💻 Estudando C++, C#, Unity e arquitetura de software.
+- 📚 Aprimorando minhas habilidades por meio de cursos, estudos e projetos práticos.
+- 🚀 Construindo meu caminho como desenvolvedor.
+
+---
+
+## ⚔️ TECH ARSENAL
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Assassin's_Creed-Ezio-red?style=for-the-badge&logo=ubisoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft-Steve-green?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/CS:GO-AWP_Master-orange?style=for-the-badge&logo=counterstrike&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortnite-Victory_Royale-blue?style=for-the-badge&logo=epicgames&logoColor=white" />
-  <img src="https://img.shields.io/badge/Free_Fire-Booyah!-yellow?style=for-the-badge&logo=garena&logoColor=black" />
+
+### 💻 Linguagens de programação
+
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="65" alt="C++"/></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="65" alt="C#"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="65" alt="Python"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="65" alt="JavaScript"/></a>
+
+### 🎮 Game Development
+
+<a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="65" alt="Unity"/></a>
+<a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" height="65" alt="Unreal Engine"/></a>
+
+### 🛠️ Ferramentas e tecnologias
+
+<a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" height="55" alt="Visual Studio"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="55" alt="PostgreSQL"/></a>
+
 </div>
 
 ---
 
-### 🌎 Conecte-se Comigo!
-<div> 
-  <a href="http://youtube.com/@pedrosoaresdevjava" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/pedrosoaresdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:contato@engpedroaugustosoares"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedrosoaresdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 🧩 CURRENT MISSIONS
+
+> Cada projeto é uma nova fase. Cada erro é uma oportunidade de aprender.
+
+- [ ] Desenvolver projetos práticos em C++ e C#.
+- [ ] Aprofundar conhecimentos em Unity e desenvolvimento de jogos.
+- [ ] Explorar estruturas de dados, algoritmos e orientação a objetos.
+- [ ] Criar aplicações que resolvam problemas reais.
+- [ ] Construir um portfólio sólido de desenvolvimento de software.
+
+---
+
+## 🕹️ GAMES THAT INSPIRED ME
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ASSASSIN'S_CREED-Ezio's_Legacy-8B0000?style=for-the-badge&logo=ubisoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/MINECRAFT-Build_Your_World-4F7942?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/COUNTER--STRIKE-Tactical_Mode-F0A500?style=for-the-badge&logo=counterstrike&logoColor=black"/>
+<img src="https://img.shields.io/badge/FORTNITE-Victory_Royale-6541F5?style=for-the-badge&logo=fortnite&logoColor=white"/>
+<img src="https://img.shields.io/badge/FREE_FIRE-BATTLE_ROYALE-FF6B00?style=for-the-badge&logo=garena&logoColor=white"/>
+
 </div>
 
 ---
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+## 🌐 CONNECT WITH ME
 
-✨ Obrigado por visitar meu perfil! Sempre buscando aprender e compartilhar conhecimento! 🚀
+<div align="center">
+
+<a href="https://www.youtube.com/@pedrosoaresdevjava"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.instagram.com/pedrosoaresdev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/pedrosoaresdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pedrosoaresdev&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile visitors"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" alt="Programmer coding"/>
+
+### 💜 CODE. PLAY. CREATE. REPEAT.
+
+*"Grandes projetos começam com uma linha de código."*
+
+**Obrigado por visitar meu perfil!**  
+Continue explorando meus repositórios e acompanhe minha evolução como desenvolvedor. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:09090b&height=120&section=footer" width="100%"/>
+
+</div>
