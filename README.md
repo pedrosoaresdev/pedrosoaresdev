@@ -50,8 +50,7 @@
 
 <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="65" alt="C++"/></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="65" alt="C#"/></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="65" alt="Python"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="65" alt="JavaScript"/></a>
+alt="JavaScript"/></a>
 
 ### 🎮 Game Development
 
