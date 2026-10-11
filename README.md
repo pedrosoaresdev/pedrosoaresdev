@@ -50,7 +50,7 @@
 
 <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="65" alt="C++"/></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="65" alt="C#"/></a>
-alt="JavaScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="65" alt="JavaScript"/></a>
 
 ### 🎮 Game Development
 
@@ -73,11 +73,11 @@ alt="JavaScript"/></a>
 
 > Cada projeto é uma nova fase. Cada erro é uma oportunidade de aprender.
 
-- [ ] Desenvolver projetos práticos em C++ e C#.
-- [ ] Aprofundar conhecimentos em Unity e desenvolvimento de jogos.
-- [ ] Explorar estruturas de dados, algoritmos e orientação a objetos.
-- [ ] Criar aplicações que resolvam problemas reais.
-- [ ] Construir um portfólio sólido de desenvolvimento de software.
+- [x] Desenvolver projetos práticos em C++ e C#.
+- [x] Aprofundar conhecimentos em Unity e desenvolvimento de jogos.
+- [x] Explorar estruturas de dados, algoritmos e orientação a objetos.
+- [x] Criar aplicações que resolvam problemas reais.
+- [x] Construir um portfólio sólido de desenvolvimento de software.
 
 ---
 
